@@ -14,8 +14,6 @@ public:
     int getArea();
     void draw();
 
-private:
-
 };
 
 

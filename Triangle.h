@@ -15,7 +15,6 @@ public:
     Triangle(int triWidth, int triHeight);
     int getArea();
     void draw();
-private:
 
 };
 
